@@ -1,0 +1,209 @@
+{
+  "status": "ok",
+  "totalResults": 58,
+  "articles": [
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "CBS News",
+      "title": "CDC under fire for allegedly withholding COVID-19 data",
+      "description": "The Centers for Disease Control and Prevention is under fire for failing to publish data related to the COVID-19 pandemic about hospitalizations and the efficacy of booster shots. Apoorva Mandavilli, a reporter with the New York Times, which first reported th…",
+      "url": "https://www.cbsnews.com/video/cdc-under-fire-for-allegedly-withholding-covid-19-data/",
+      "urlToImage": "https://cbsnews1.cbsistatic.com/hub/i/r/2022/02/23/a55b2316-8044-4164-a733-def0976384db/thumbnail/1200x630/6a816b6c32ccaac5a2975ffaa2e1c792/cbsn-fusion-cdc-under-fire-for-allegedly-withholding-covid-19-data-thumbnail-903133-640x360.jpg",
+      "publishedAt": "2022-02-23T16:32:28+00:00",
+      "content": "Watch CBS News\r\nCopyright ©2022 CBS Interactive Inc. All rights reserved.\r\nGet browser notifications for breaking news, live events, and exclusive reporting.\r\nNot NowTurn On"
+    },
+    {
+      "source": { "id": "axios", "name": "Axios" },
+      "author": "Oriana Gonzalez",
+      "title": "Sanofi and GSK to seek authorization for COVID vaccine",
+      "description": "Sanofi and GSK said they plan to submit their data to the FDA when results become available later this year.",
+      "url": "https://www.axios.com/sanofi-covid-vaccine-severe-disease-omicron-f7839845-584c-4458-92a0-20177ed02125.html",
+      "urlToImage": "https://images.axios.com/QJ7SbtE3gCHGhQbNPyWfyiCRbqM=/0x153:5000x2966/1366x768/2022/02/23/1645631450490.jpg",
+      "publishedAt": "2022-02-23T16:30:51Z",
+      "content": "Sanofi and GSK on Wednesday said that their coronavirus vaccine has a 100% efficacy against severe infection and hospitalization in a phase 3 clinical trial.\r\nState of play: The companies said early … [+1654 chars]"
+    },
+    {
+      "source": { "id": "ansa", "name": "ANSA.it" },
+      "author": "ANSA.it",
+      "title": "Covid: 49.040 positivi e 252 le vittime nelle ultime 24 ore - Ultima Ora",
+      "description": "Sono 49.040 i nuovi contagi da Covid nelle ultime 24 ore, secondo i dati del ministero della Salute. Ieri erano stati 60.029. Le vittime sono invece 252 (ieri erano state 322). Sono 479.447 i tamponi effettuati. (ANSA)",
+      "url": "http://www.ansa.it/sito/notizie/topnews/2022/02/23/covid-49.040-positivi-e-252-le-vittime-nelle-ultime-24-ore_12efd3a0-99e1-4dcd-819d-2a3d4c6da720.html",
+      "urlToImage": "https://www.ansa.it/webimages/img_700/2022/2/23/3baae42ee19843e4bb8cc56f1d35166f.jpg",
+      "publishedAt": "2022-02-23T16:30:00Z",
+      "content": "(ANSA) - ROMA, 23 FEB - Sono 49.040 i nuovi contagi da Covid\r\nnelle ultime 24 ore, secondo i dati del ministero della Salute.Ieri erano stati 60.029. Le vittime sono invece 252 (ieri erano\r\nstate 322… [+417 chars]"
+    },
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Khulekani Magubane",
+      "title": "Budget 2022 | More money planned for youth employment as Covid-19 pressures wane",
+      "description": "Finance Minister Enoch Godongwana has hinted that spending priorities could shift from a response to Covid-19 to tackling unemployment through job creation for young people.",
+      "url": "https://www.news24.com/fin24/Economy/budget-2022-more-money-planned-for-youth-employment-as-covid-19-pressures-wane-20220223",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3220/56e41204ee494482b2f2e2a7b429605b.jpeg",
+      "publishedAt": "2022-02-23T16:17:19+00:00",
+      "content": "Finance Minister Enoch Godongwana has hinted that spending priorities could shift from a response to Covid-19 to tackling rampant unemployment through job creation initiatives for young people, as me… [+1982 chars]"
+    },
+    {
+      "source": { "id": "google-news-ca", "name": "Google News (Canada)" },
+      "author": "Star staff, wire services",
+      "title": "Today’s coronavirus news: Fewer LTC deaths during Omicron wave despite high infections; Ontario reports 1,106 people hospitalized with COVID-19, 319 in ICU",
+      "description": "Meanwhile, Hong Kong residents are becoming increasingly annoyed with the administration’s insistence on sticking to China’s “zero-COVID” strategy.",
+      "url": "https://www.thestar.com/news/canada/2022/02/23/todays-coronavirus-news-a-criminal-anthropologist-says-alberta-is-at-the-heart-of-recent-convoy-protests.html",
+      "urlToImage": "https://images.thestar.com/MYrDipL28wPeqLmjb5mInuSDYk4=/1200x800/smart/filters:cb(1645632564769)/https://www.thestar.com/content/dam/thestar/news/canada/2022/02/23/todays-coronavirus-news-a-criminal-anthropologist-says-alberta-is-at-the-heart-of-recent-convoy-protests/resto.jpg",
+      "publishedAt": "2022-02-23T15:56:15+00:00",
+      "content": "The latest coronavirus news from Canada and around the world Wednesday. This file will be updated throughout the day. Web links to longer stories if available.\r\n11 a.m. Ontario long-term care homes, … [+11371 chars]"
+    },
+    {
+      "source": { "id": "info-money", "name": "InfoMoney" },
+      "author": null,
+      "title": "Brasil passa a exigir 'passaporte de vacina' a crianças acima de 12 anos vindas do exterior; veja regras",
+      "description": "Regra anterior obrigava viajantes, a partir de 5 anos, a apresentar comprovante de vacinação contra a Covid para entrar no país",
+      "url": "https://www.infomoney.com.br/minhas-financas/brasil-passa-a-exigir-passaporte-de-vacina-a-criancas-acima-de-12-anos-vindas-do-exterior-veja-regras/",
+      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2021/12/kids-covid.jpg?quality=70",
+      "publishedAt": "2022-02-23T15:48:14Z",
+      "content": null
+    },
+    {
+      "source": { "id": "abc-news", "name": "ABC News" },
+      "author": "MIKE STOBBE AP Medical Writer",
+      "title": "CDC: Some people should wait longer for 2nd COVID shot",
+      "description": "",
+      "url": "https://abcnews.go.com/Health/wireStory/cdc-people-wait-longer-2nd-covid-shot-83063028",
+      "urlToImage": "https://s.abcnews.com/images/WNT/220221_wn_ault3_hpMain_16x9_992.jpg",
+      "publishedAt": "2022-02-23T15:41:32Z",
+      "content": "NEW YORK -- Some people getting Pfizer or Moderna COVID-19 vaccines should consider waiting up to eight weeks between the first and second doses, instead of the three or four weeks previously recomme… [+2522 chars]"
+    },
+    {
+      "source": { "id": "google-news-ca", "name": "Google News (Canada)" },
+      "author": "Codi Wilson",
+      "title": "Ontario's coronavirus hospitalizations rise above 1,100 today as ICU admissions level off",
+      "description": "Ontario is reporting more than 1,100 COVID-19 patients in hospital today as virus-related hospitalizations shows signs of levelling off after steadily declining for several weeks.",
+      "url": "https://www.cp24.com/news/ont-s-covid-19-hospitalizations-rise-above-1-100-today-as-icu-admissions-level-off-1.5792476",
+      "urlToImage": "https://www.cp24.com/polopoly_fs/1.5792481.1645629037!/httpImage/image.jpg_gen/derivatives/landscape_620/image.jpg",
+      "publishedAt": "2022-02-23T15:31:27+00:00",
+      "content": "Ontario is reporting more than 1,100 COVID-19 patients in hospital today as virus-related hospitalizations shows signs of levelling off after steadily declining for several weeks.\r\nProvincial health … [+2171 chars]"
+    },
+    {
+      "source": { "id": "lequipe", "name": "L'equipe" },
+      "author": "L'EQUIPE",
+      "title": "Le deuxième-ligne irlandais Iain Henderson positif au Covid-19",
+      "description": "Le deuxième-ligne irlandais Iain Henderson a été testé positif au Covid-19 ce mercredi. Il a été mis à l'isolement.",
+      "url": "https://www.lequipe.fr/Rugby/Actualites/Le-deuxieme-ligne-irlandais-iain-henderson-positif-au-covid-19/1319008",
+      "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/iain-henderson-deuxieme-ligne-de-l-equipe-d-irlande-p-lahalle-l-equipe/1500000001224342/0:0,1995:1330-640-427-75/053a6.jpg",
+      "publishedAt": "2022-02-23T15:23:00+00:00",
+      "content": "Le deuxième-ligne du XV du trèfle, Iain Henderson, a été testé positif au Covid-19 et mis à l'isolement ce mercredi, vient d'annoncer la sélection irlandaise."
+    },
+    {
+      "source": { "id": "the-irish-times", "name": "The Irish Times" },
+      "author": "Gerry Thornley",
+      "title": "Johnny Sexton reports clean bill of health ahead of Italy encounter",
+      "description": "Iain Henderson ruled out of game after testing positive for Covid-19",
+      "url": "https://www.irishtimes.com/\t\t\t\t\t\t\t/sport/rugby/international/johnny-sexton-reports-clean-bill-of-health-ahead-of-italy-encounter-1.4810114\t",
+      "urlToImage": "https://www.irishtimes.com/image-creator/?id=1.4810112&origw=1440",
+      "publishedAt": "2022-02-23T15:20:43Z",
+      "content": "Irish captain Johnny Sexton has confirmed that he returned to full training a week ago and is fit and ready for Irelands Six Nations game against Italy at the Aviva Stadium on Sunday (kick-off 3pm).\r… [+4908 chars]"
+    },
+    {
+      "source": { "id": "the-irish-times", "name": "The Irish Times" },
+      "author": "Simon Carswell",
+      "title": "Revealed: The full impact of Covid-19 on society and the economy",
+      "description": "CSO snapshot says ‘ripple effect’ of the virus ‘still being felt and measured two years on’",
+      "url": "https://www.irishtimes.com/news/ireland/irish-news/revealed-the-full-impact-of-covid-19-on-society-and-the-economy-1.4810052",
+      "urlToImage": "https://www.irishtimes.com/polopoly_fs/1.4810051.1645629192!/image/image.jpg",
+      "publishedAt": "2022-02-23T14:37:57Z",
+      "content": "A snapshot of the impact of the Covid-19 pandemic has been produced by the Central Statistics Office (CSO) showing the scale of virus-related deaths and the extent of the social and economic fallout.… [+3783 chars]"
+    },
+    {
+      "source": { "id": "google-news-au", "name": "Google News (Australia)" },
+      "author": "James Carmody, Jessica Warriner, Tabarak Al Jrood, Rebecca Trigger",
+      "title": "WA records 643 new local COVID-19 cases as Omicron outbreak erupts, five people in hospital",
+      "description": "The number of new COVID-19 cases in Western Australia erupts, with 643 local infections reported plus two travel-related cases, after a series of days with the number hovering over 200.",
+      "url": "https://www.abc.net.au/news/2022-02-23/wa-records-643-new-local-covid-19-cases-in-massive-omicron-surge/100853208",
+      "urlToImage": "https://live-production.wcms.abc-cdn.net.au/5b3c2318ede91efc8ab1a4a452aff0c1?impolicy=wcms_crop_resize&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485",
+      "publishedAt": "2022-02-23T14:32:39+00:00",
+      "content": "Western Australia has recorded a massive spike in COVID-19 cases, with 643 new local infections reported.\r\nKey points:\r\n<ul><li>Case numbers have soared after hovering above 200 for several days</li>… [+4389 chars]"
+    },
+    {
+      "source": { "id": "the-globe-and-mail", "name": "The Globe And Mail" },
+      "author": "Jason Kirby",
+      "title": "Save lives or save jobs? How Canada and the U.S. took different approaches to the pandemic",
+      "description": "Economists often debate  grim choices, like whether to  accept more COVID-19 deaths if it boosts economic growth",
+      "url": "https://www.theglobeandmail.com/business/rob-magazine/article-canada-us-covid-pandemic-approach-comparison/",
+      "urlToImage": "https://www.theglobeandmail.com/resizer/3MGXznPBxVSmGRfwEiemBGBeLFs=/1200x748/filters:quality(80)/cloudfront-us-east-1.images.arcpublishing.com/tgam/DMM2U6LAKNNJFDVZAAN6GB45YU.JPG",
+      "publishedAt": "2022-02-23T14:00:00Z",
+      "content": "From the earliest days of the pandemic, the world has struggled to find a balance between epidemiology and economics. Put simply: save lives or save jobsdeath or dollars. As we enter year three, the … [+2033 chars]"
+    },
+    {
+      "source": { "id": "rt", "name": "RT" },
+      "author": "Сергей Гусаров",
+      "title": "«Позволяют максимально эффективно оказать помощь»: в Минздраве рассказали о переходе на новые протоколы лечения COVID-19",
+      "description": "При лечении коронавируса в России применяются новые методические рекомендации Минздрава, которые позволяют максимально эффективно оказать помощь, рассказал министр здравоохранения Михаил Мурашко. По его словам, в России по-прежнему циркулирует штамм «дельта»,…",
+      "url": "https://russian.rt.com/russia/article/966769-minzdrav-lechenie-koronavirus-deltakron",
+      "urlToImage": "https://cdni.rt.com/russian/images/2022.02/article/621620a9ae5ac974ff3e2508.jpg",
+      "publishedAt": "2022-02-23T13:17:51Z",
+      "content": ", «» «». , 1:2.\r\n - « 24», , «» . , 190 .\r\n« , , , - », — .\r\n , , «». , , .\r\n« ( COVID-19. — RT) , , , », — .\r\n, COVID-19 82 . , , .\r\n16 349 , 5,46% . 17 294 COVID-19. 24 COVID-19 137 642.\r\n 179 203 … [+278 chars]"
+    },
+    {
+      "source": { "id": "google-news-it", "name": "Google News (Italy)" },
+      "author": "il Resto del Carlino",
+      "title": "Covid oggi: il bollettino dell'Emilia Romagna del 23 febbraio 2022. Dati e contagi",
+      "description": "Nei reparti non critici -73 ricoveri, salgono di 3 in terapia intensiva. 29 decessi. Al via la quarta dose per gli immunodepressi dal primo marzo",
+      "url": "https://www.ilrestodelcarlino.it/emilia-romagna/covid-oggi-bollettino-23-febbraio-2022-1.7392414",
+      "urlToImage": "https://immagini.quotidiano.net/?h=391&url=http%3A%2F%2Fp1014p.quotidiano.net%3A80%2Fpolopoly_fs%2F1.7396105.1645630466%21%2FhttpImage%2Fimage.jpg_gen%2Fderivatives%2Fwidescreen%2Fimage.jpg&w=700",
+      "publishedAt": "2022-02-23T13:03:23+00:00",
+      "content": "Bologna, 23 febbraio 2022 - Sono 3.201 i nuovi casi di positività al covid registrati nelle ultime 24 ore. Sono mille in più rispetto a ieri. Ma si segnalano anche più di 4mila i guariti e 1.200 casi… [+5885 chars]"
+    },
+    {
+      "source": { "id": "fortune", "name": "Fortune" },
+      "author": "Katica Roy",
+      "title": "From equal pay to more paternity leave, here are 5 ways business leaders can fight for gender equity",
+      "description": "The COVID-19 pandemic hit working women particularly hard, making the fight for equal pay and gender equity on the job even more urgent.",
+      "url": "https://fortune.com/2022/02/23/equal-pay-paternity-leave-workplace-gender-equity/",
+      "urlToImage": "https://content.fortune.com/wp-content/uploads/2022/02/GettyImages-1207515909-e1645388805847.jpg?resize=1200,600",
+      "publishedAt": "2022-02-23T13:00:00Z",
+      "content": "Skip to Content"
+    },
+    {
+      "source": { "id": "google-news-au", "name": "Google News (Australia)" },
+      "author": "Latika Bourke",
+      "title": "Australia news LIVE: Russia receives fresh sanctions from Australia, US, UK as invasion in Ukraine continues; COVID-19 cases grow across the nation",
+      "description": "The world’s eyes are now on Russia’s Vladimir Putin after sanctions imposed by Western nations, including the US, UK and Australia, appear to have fallen on deaf ears in the Kremlin. Follow our live coverage.",
+      "url": "https://www.smh.com.au/national/australia-news-live-russia-receives-fresh-sanctions-from-australia-us-uk-as-invasion-in-ukraine-continues-covid-19-cases-grow-across-the-nation-20220223-p59z34.html",
+      "urlToImage": "https://static.ffx.io/images/$zoom_0.3983%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_181%2C$y_159/t_crop_custom/q_86%2Cf_auto/t_smh_live_no_age_social_wm/c0b7d41c68abcde6e6c258218ef762f968660d95",
+      "publishedAt": "2022-02-23T12:38:05+00:00",
+      "content": "Ukraines Foreign Minister, Dymtro Kuleba, says he is grateful for the first round of sanctions imposed by Western nations in the 24 hours after Vladimir Putins rambling televised address, which culmi… [+950 chars]"
+    },
+    {
+      "source": { "id": "google-news-ca", "name": "Google News (Canada)" },
+      "author": null,
+      "title": "Post-secondary life could be tough test for pandemic grads | CBC News",
+      "description": "After having most of their high school education disrupted by the COVID-19 pandemic, this year's graduating students faces new challenges inside and outside of the classroom as they prepare to enter post-secondary life.",
+      "url": "https://www.cbc.ca/news/canada/toronto/post-secondary-life-could-be-tough-test-for-pandemic-grads-1.6360402",
+      "urlToImage": "https://i.cbc.ca/1.6303931.1641323613!/cumulusImage/httpImage/image.jpg_gen/derivatives/16x9_620/grade-9-student-arryan-rao.jpg",
+      "publishedAt": "2022-02-23T12:16:22+00:00",
+      "content": "Many students graduating high school this year haven't taken an in-person exam since Grade 10.\r\nAnd that's just one of the new challenges the graduating class faces as its students prepare to enter p… [+5434 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Peter Landers, Miho Inada",
+      "title": "Fast-Spreading Covid-19 Omicron Type Revives Questions About Opening Up",
+      "description": "BA.2 subvariant now accounts for more than a third of global cases, according to global database",
+      "url": "https://www.wsj.com/articles/fast-spreading-covid-19-omicron-type-revives-questions-about-opening-up-11645616471?mod=hp_lead_pos1",
+      "urlToImage": "https://images.wsj.net/im-490942/social",
+      "publishedAt": "2022-02-23T11:41:00Z",
+      "content": "A more infectious type of the Omicron variant has surged to account for more than a third of global Covid-19 cases sequenced recently, adding to the debate about whether countries are ready for full … [+202 chars]"
+    },
+    {
+      "source": { "id": "medical-news-today", "name": "Medical News Today" },
+      "author": "Robby Berman",
+      "title": "COVID-19 survivors: Increased risk of mental health issues",
+      "description": "A new study finds that people who survive COVID-19 have an increased risk of developing mental health issues in the 12 months following diagnosis.",
+      "url": "http://www.medicalnewstoday.com/articles/covid-19-survivors-increased-risk-of-mental-health-issues",
+      "urlToImage": "https://post.medicalnewstoday.com/wp-content/uploads/sites/3/2022/02/COVID-19-survivors-mental-health-thumb.jpg",
+      "publishedAt": "2022-02-23T11:33:00Z",
+      "content": "<ul><li>A study tracking COVID-19 survivors found them more likely to develop mental health issues than other people over the year following diagnosis.</li><li>The researchers saw an increased risk e… [+5856 chars]"
+    }
+  ]
+}
