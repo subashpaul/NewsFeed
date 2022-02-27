@@ -2,9 +2,15 @@ import React, { Component } from "react";
 import { Link } from "react-router-dom";
 
 export default class Navbar extends Component {
+  switchActive = (name) => {
+    for (const elem of document.getElementsByClassName("nav-link")) {
+      elem.className = "nav-link";
+    }
+    document.getElementById(name).className = "nav-link active";
+  };
   render() {
     return (
-      <div>
+      <div className="sticky-top ">
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
           <div className="container-fluid">
             <Link className="navbar-brand" to="/">
@@ -27,32 +33,75 @@ export default class Navbar extends Component {
             >
               <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                 <li className="nav-item">
-                  <Link className="nav-link" aria-current="page" to="/">
+                  <Link
+                    className="nav-link"
+                    onClick={() => {
+                      this.switchActive("hello");
+                    }}
+                    aria-current="page"
+                    id="hello"
+                    to="/"
+                  >
                     Home
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/business">
+                  <Link
+                    className="nav-link"
+                    onClick={() => {
+                      this.switchActive("buisness");
+                    }}
+                    to="/business"
+                    id="buisness"
+                  >
                     Business
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/entertainment">
+                  <Link
+                    className="nav-link"
+                    id="entertainment"
+                    onClick={() => {
+                      this.switchActive("entertainment");
+                    }}
+                    to="/entertainment"
+                  >
                     Entertainment
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/health">
+                  <Link
+                    className="nav-link"
+                    onClick={() => {
+                      this.switchActive("health");
+                    }}
+                    id="health"
+                    to="/health"
+                  >
                     Health
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/science">
+                  <Link
+                    className="nav-link"
+                    id="science"
+                    onClick={() => {
+                      this.switchActive("science");
+                    }}
+                    to="/science"
+                  >
                     Science
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link className="nav-link" to="/technology">
+                  <Link
+                    className="nav-link"
+                    id="technology"
+                    onClick={() => {
+                      this.switchActive("technology");
+                    }}
+                    to="/technology"
+                  >
                     Technology
                   </Link>
                 </li>

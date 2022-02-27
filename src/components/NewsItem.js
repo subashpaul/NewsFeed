@@ -2,9 +2,20 @@ import React, { Component } from "react";
 
 export default class NewsItem extends Component {
   render() {
-    let { title, description, imgUrl, newsUrl } = this.props;
+    let { title, description, imgUrl, newsUrl, date, author, source } =
+      this.props;
     return (
-      <div className="card my-3" style={{ borderRadius: "10px" }}>
+      <div className="card my-2" style={{ borderRadius: "10px" }}>
+        <div
+          style={{
+            display: "flex",
+            justifyContent: "flex-end",
+            position: "absolute",
+            right: "0",
+          }}
+        >
+          <span className="badge rounded-pill bg-secondary"> {source} </span>
+        </div>
         <img
           src={
             imgUrl
@@ -23,6 +34,12 @@ export default class NewsItem extends Component {
           <h5 className="card-title">{title}...</h5>
           <p style={{ height: "4rem" }} className="card-text">
             {description}
+          </p>
+          <p className="card-text">
+            <small className="text-muted">
+              By- {author ? author : "Unknown"} on{" "}
+              {new Date(date).toGMTString().slice(0, 25)}
+            </small>
           </p>
           <a
             href={newsUrl}
